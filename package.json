@@ -1,0 +1,23 @@
+{
+  "name": "tonelee-template-vue",
+  "version": "1.0.0",
+  "description": "tonele  template vue ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToneHome/tonelee-template-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "tonelee-cli"
+  ],
+  "author": "Tone Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToneHome/tonelee-template-vue/issues"
+  },
+  "homepage": "https://github.com/ToneHome/tonelee-template-vue#readme"
+}
