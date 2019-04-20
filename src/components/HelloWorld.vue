@@ -9,6 +9,7 @@
       <li>四</li>
       <li>五</li>
       <li>六</li>
+      <li>七</li>
     </ul>
     <div class="days">
       <div class="item"></div>
@@ -59,9 +60,6 @@ export default {
       this.year = date.getFullYear();
       this.month = date.getMonth();
       this.currentDay = date.getDate();
-
-      
-
     }
   }
 };
