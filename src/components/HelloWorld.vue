@@ -1,6 +1,5 @@
 <template>
   <div>
-    <div>{{ year }} - {{ month + 1 }} - {{ currentDay }}</div>
     <ul class="weekdays">
       <li>日</li>
       <li>一</li>
